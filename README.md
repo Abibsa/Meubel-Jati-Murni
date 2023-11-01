@@ -1,2 +1,2 @@
 # Meubel-Jati-Murni
-Tugas STI 
+# Meubel-Jati-Murni
